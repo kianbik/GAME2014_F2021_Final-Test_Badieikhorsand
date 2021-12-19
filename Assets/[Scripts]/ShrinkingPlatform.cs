@@ -1,3 +1,21 @@
+///////////////////////////////
+/// ShrinkingPlatform.cs
+/// Author: Kian Badieikhorsand 101282433
+/// 
+/// description: Platform will shrink after colliding with player and will reset when they are not colliding
+/// 
+/// 
+/// 
+/// 
+/// 
+///
+/// last modified: dec 18th 2021
+//////////////////////////////
+
+
+
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
